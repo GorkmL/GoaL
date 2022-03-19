@@ -1,0 +1,17 @@
+{
+  "name": "goal-music",
+  "version": "1.0.0",
+  "description": "",
+  "main": "",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "GörkemOnur",
+  "license": "ISC",
+  "dependencies": {
+    "discord-player": "^5.2.2",
+    "discord.js": "^13.6.0",
+    "ffmpeg-static": "^4.4.1",
+    "opusscript": "^0.0.8"
+  }
+}
